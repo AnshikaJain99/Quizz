@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quizz</string>
+    <string name="q1">1. Find the missing series:\n\t 3, 12, 27, 48, 75, 108, ?</string>
+    <string name="a1">147</string>
+    <string name="q2">2. Find the missing series:\n\t2, 6, 12, 20, 30, 42, 56, ? </string>
+    <string name="a2">72</string>
+    <string name="q3">3. Find the missing series:\n\t1, 7, 3, 9, 6, 12, 10, 16, 15, ?</string>
+    <string name="a3">21</string>
+    <string name="q4">4. Find the missing series:\n\t5, 4, 10, 8, 15, ? </string>
+    <string name="a4">12</string>
+    <string name="q5">5. Find the missing series:\n\t19, 29, 40, 44, ?</string>
+    <string name="a5">52</string>
+</resources>
